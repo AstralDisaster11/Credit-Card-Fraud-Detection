@@ -24,7 +24,6 @@ Pandas
 Matplotlib
 Seaborn
 Scikit-learn
-You can install the required libraries using the following command:
 
 # Project Workflow
 Data Loading:
